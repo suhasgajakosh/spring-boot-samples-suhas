@@ -1,0 +1,184 @@
+2016-11-22 12:38:33,201 [Worker-2] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
+2016-11-22 14:08:37,100 [Worker-30] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.actuator:log4j-actuator:0.0.1-SNAPSHOT @ D:\workspace\spring-boot-samples\spring-boot-actuator-log4j\pom.xml.
+2016-11-22 14:08:38,553 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-boot-actuator-log4j/src/main/java
+2016-11-22 14:08:38,554 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-boot-actuator-log4j/src/main/resources
+2016-11-22 14:08:38,561 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-boot-actuator-log4j/src/main/resources
+2016-11-22 14:08:38,573 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-boot-actuator-log4j/src/test/java
+2016-11-22 14:08:39,024 [Worker-30] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 3 sec
+2016-11-22 14:08:39,028 [Worker-30] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-11-22 14:08:39,622 [Worker-30] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.actuator:log4j-actuator:0.0.1-SNAPSHOT @ D:\workspace\spring-boot-samples\spring-boot-actuator-log4j\pom.xml.
+2016-11-22 14:08:40,255 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-boot-actuator-log4j/src/main/java
+2016-11-22 14:08:40,256 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-boot-actuator-log4j/src/main/resources
+2016-11-22 14:08:40,257 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-boot-actuator-log4j/src/main/resources
+2016-11-22 14:08:40,263 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-boot-actuator-log4j/src/test/java
+2016-11-22 14:08:40,502 [Worker-30] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2016-11-22 14:08:43,223 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-22 14:08:43,229 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-11-22 14:08:43,243 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-11-22 14:08:43,248 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-22 14:08:43,248 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\spring-boot-samples\spring-boot-actuator-log4j\src\test\resources
+2016-11-22 14:08:45,035 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-22 14:08:45,037 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-11-22 14:08:45,037 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-11-22 14:08:45,040 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-22 14:08:45,040 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\spring-boot-samples\spring-boot-actuator-log4j\src\test\resources
+2016-11-22 14:10:27,763 [Worker-34] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.actuator:log4j-actuator:0.0.1-SNAPSHOT @ D:\workspace\spring-boot-samples\spring-boot-actuator-log4j\pom.xml.
+2016-11-22 14:10:29,551 [Worker-34] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-log4j2/1.4.2.RELEASE/spring-boot-starter-log4j2-1.4.2.RELEASE.pom
+2016-11-22 14:10:29,964 [Worker-34] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-log4j2/1.4.2.RELEASE/spring-boot-starter-log4j2-1.4.2.RELEASE.pom
+2016-11-22 14:10:30,370 [Worker-34] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-slf4j-impl/2.6.2/log4j-slf4j-impl-2.6.2.pom
+2016-11-22 14:10:30,371 [JavaFX Application Thread] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-log4j2/1.4.2.RELEASE/spring-boot-starter-log4j2-1.4.2.RELEASE.pom
+2016-11-22 14:10:30,686 [Worker-34] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-slf4j-impl/2.6.2/log4j-slf4j-impl-2.6.2.pom
+2016-11-22 14:10:30,692 [JavaFX Application Thread] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-log4j2/1.4.2.RELEASE/spring-boot-starter-log4j2-1.4.2.RELEASE.pom
+2016-11-22 14:10:30,964 [JavaFX Application Thread] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j/2.6.2/log4j-2.6.2.pom
+2016-11-22 14:10:31,021 [Worker-34] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j/2.6.2/log4j-2.6.2.pom
+2016-11-22 14:10:31,521 [Worker-34] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j/2.6.2/log4j-2.6.2.pom
+2016-11-22 14:10:31,527 [JavaFX Application Thread] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j/2.6.2/log4j-2.6.2.pom
+2016-11-22 14:10:31,836 [Worker-34] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-api/2.6.2/log4j-api-2.6.2.pom
+2016-11-22 14:10:31,842 [JavaFX Application Thread] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-api/2.6.2/log4j-api-2.6.2.pom
+2016-11-22 14:10:32,150 [JavaFX Application Thread] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-api/2.6.2/log4j-api-2.6.2.pom
+2016-11-22 14:10:32,173 [Worker-34] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-api/2.6.2/log4j-api-2.6.2.pom
+2016-11-22 14:10:32,468 [Worker-34] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-core/2.6.2/log4j-core-2.6.2.pom
+2016-11-22 14:10:32,529 [JavaFX Application Thread] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-core/2.6.2/log4j-core-2.6.2.pom
+2016-11-22 14:10:32,883 [Worker-34] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-core/2.6.2/log4j-core-2.6.2.pom
+2016-11-22 14:10:32,889 [JavaFX Application Thread] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-core/2.6.2/log4j-core-2.6.2.pom
+2016-11-22 14:10:33,399 [JavaFX Application Thread] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-log4j2/1.4.2.RELEASE/spring-boot-starter-log4j2-1.4.2.RELEASE.jar
+2016-11-22 14:10:33,400 [Worker-34] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-log4j2/1.4.2.RELEASE/spring-boot-starter-log4j2-1.4.2.RELEASE.jar
+2016-11-22 14:10:33,715 [Worker-34] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-log4j2/1.4.2.RELEASE/spring-boot-starter-log4j2-1.4.2.RELEASE.jar
+2016-11-22 14:10:33,723 [JavaFX Application Thread] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-log4j2/1.4.2.RELEASE/spring-boot-starter-log4j2-1.4.2.RELEASE.jar
+2016-11-22 14:10:34,029 [JavaFX Application Thread] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-slf4j-impl/2.6.2/log4j-slf4j-impl-2.6.2.jar
+2016-11-22 14:10:34,043 [Worker-34] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-slf4j-impl/2.6.2/log4j-slf4j-impl-2.6.2.jar
+2016-11-22 14:10:34,458 [JavaFX Application Thread] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-slf4j-impl/2.6.2/log4j-slf4j-impl-2.6.2.jar
+2016-11-22 14:10:34,477 [Worker-34] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-slf4j-impl/2.6.2/log4j-slf4j-impl-2.6.2.jar
+2016-11-22 14:10:34,721 [JavaFX Application Thread] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-api/2.6.2/log4j-api-2.6.2.jar
+2016-11-22 14:10:34,741 [Worker-34] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-api/2.6.2/log4j-api-2.6.2.jar
+2016-11-22 14:10:35,438 [JavaFX Application Thread] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-api/2.6.2/log4j-api-2.6.2.jar
+2016-11-22 14:10:35,478 [Worker-34] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-api/2.6.2/log4j-api-2.6.2.jar
+2016-11-22 14:10:35,844 [JavaFX Application Thread] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-core/2.6.2/log4j-core-2.6.2.jar
+2016-11-22 14:10:35,914 [Worker-34] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-core/2.6.2/log4j-core-2.6.2.jar
+2016-11-22 14:10:38,997 [JavaFX Application Thread] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-core/2.6.2/log4j-core-2.6.2.jar
+2016-11-22 14:10:39,784 [Worker-34] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-core/2.6.2/log4j-core-2.6.2.jar
+2016-11-22 14:10:41,195 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-22 14:10:41,197 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-11-22 14:10:41,197 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-11-22 14:10:41,200 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-22 14:10:41,200 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\spring-boot-samples\spring-boot-actuator-log4j\src\test\resources
+2016-11-22 14:10:44,644 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-22 14:10:44,646 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-11-22 14:10:44,658 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-11-22 14:10:44,660 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-22 14:10:44,660 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\spring-boot-samples\spring-boot-actuator-log4j\src\test\resources
+2016-11-22 14:10:45,714 [Worker-37] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-11-22 14:10:46,404 [Worker-37] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.actuator:log4j-actuator:0.0.1-SNAPSHOT @ D:\workspace\spring-boot-samples\spring-boot-actuator-log4j\pom.xml.
+2016-11-22 14:10:46,990 [Worker-37] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-boot-actuator-log4j/src/main/java
+2016-11-22 14:10:46,991 [Worker-37] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-boot-actuator-log4j/src/main/resources
+2016-11-22 14:10:46,991 [Worker-37] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-boot-actuator-log4j/src/main/resources
+2016-11-22 14:10:46,992 [Worker-37] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-boot-actuator-log4j/src/test/java
+2016-11-22 14:10:47,133 [Worker-37] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2016-11-22 14:10:48,589 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-22 14:10:48,590 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-11-22 14:10:48,600 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-11-22 14:10:48,603 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-22 14:10:48,603 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\spring-boot-samples\spring-boot-actuator-log4j\src\test\resources
+2016-11-22 14:11:57,608 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-22 14:11:57,611 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-11-22 14:11:57,613 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-11-22 14:11:57,615 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-22 14:11:57,615 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\spring-boot-samples\spring-boot-actuator-log4j\src\test\resources
+2016-11-22 14:12:41,408 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-22 14:12:41,409 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-11-22 14:12:41,409 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-11-22 14:12:41,418 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-22 14:12:41,418 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\spring-boot-samples\spring-boot-actuator-log4j\src\test\resources
+2016-11-22 14:12:47,000 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-22 14:12:47,001 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-11-22 14:12:47,002 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-11-22 14:12:47,007 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-22 14:12:47,007 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\spring-boot-samples\spring-boot-actuator-log4j\src\test\resources
+2016-11-22 14:13:49,838 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-22 14:13:49,839 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-11-22 14:13:49,841 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-11-22 14:13:49,846 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-22 14:13:49,846 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\spring-boot-samples\spring-boot-actuator-log4j\src\test\resources
+2016-11-22 14:13:56,948 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-22 14:13:56,949 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-11-22 14:13:56,951 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-11-22 14:13:56,954 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-22 14:13:56,954 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\spring-boot-samples\spring-boot-actuator-log4j\src\test\resources
+2016-11-22 14:14:44,731 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-22 14:14:44,732 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-11-22 14:14:44,734 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-11-22 14:14:44,736 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-22 14:14:44,736 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\spring-boot-samples\spring-boot-actuator-log4j\src\test\resources
+2016-11-22 14:14:49,742 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-22 14:14:49,743 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-11-22 14:14:49,745 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-11-22 14:14:49,753 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-22 14:14:49,753 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\spring-boot-samples\spring-boot-actuator-log4j\src\test\resources
+2016-11-22 14:14:59,889 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-22 14:14:59,890 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-11-22 14:14:59,891 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-11-22 14:14:59,894 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-22 14:14:59,894 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\spring-boot-samples\spring-boot-actuator-log4j\src\test\resources
+2016-11-22 14:15:39,719 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-22 14:15:39,720 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-11-22 14:15:39,722 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-11-22 14:15:39,725 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-22 14:15:39,725 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\spring-boot-samples\spring-boot-actuator-log4j\src\test\resources
+2016-11-22 14:15:43,699 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-22 14:15:43,700 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-11-22 14:15:43,702 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-11-22 14:15:43,704 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-22 14:15:43,705 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\spring-boot-samples\spring-boot-actuator-log4j\src\test\resources
+2016-11-22 14:16:50,759 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-22 14:16:50,760 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-11-22 14:16:50,760 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-11-22 14:16:50,763 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-22 14:16:50,764 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\spring-boot-samples\spring-boot-actuator-log4j\src\test\resources
+2016-11-22 14:17:06,983 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-22 14:17:06,983 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-11-22 14:17:06,983 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-11-22 14:17:06,985 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-22 14:17:06,985 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\spring-boot-samples\spring-boot-actuator-log4j\src\test\resources
+2016-11-22 14:17:17,859 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-22 14:17:17,859 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-11-22 14:17:17,859 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-11-22 14:17:17,861 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-22 14:17:17,862 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\spring-boot-samples\spring-boot-actuator-log4j\src\test\resources
+2016-11-22 14:17:32,269 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-22 14:17:32,270 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-11-22 14:17:32,270 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-11-22 14:17:32,272 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-22 14:17:32,273 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\spring-boot-samples\spring-boot-actuator-log4j\src\test\resources
+2016-11-22 14:17:38,057 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-22 14:17:38,058 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-11-22 14:17:38,059 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-11-22 14:17:38,068 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-22 14:17:38,068 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\spring-boot-samples\spring-boot-actuator-log4j\src\test\resources
+2016-11-22 14:17:43,510 [Worker-33] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\workspace\spring-boot-samples\spring-boot-actuator-log4j
+2016-11-22 14:17:43,511 [Worker-33] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B clean
+2016-11-22 14:17:46,704 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-22 14:17:46,705 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-11-22 14:17:46,709 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-11-22 14:17:46,717 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-22 14:17:46,717 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\spring-boot-samples\spring-boot-actuator-log4j\src\test\resources
+2016-11-22 14:17:53,212 [Worker-41] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\workspace\spring-boot-samples\spring-boot-actuator-log4j
+2016-11-22 14:17:53,212 [Worker-41] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B install
+2016-11-22 14:17:57,289 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-22 14:17:57,290 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-11-22 14:17:57,294 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-11-22 14:17:57,298 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-22 14:17:57,298 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\spring-boot-samples\spring-boot-actuator-log4j\src\test\resources
+2016-11-22 14:18:01,953 [Worker-40] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\workspace\spring-boot-samples\spring-boot-actuator-log4j
+2016-11-22 14:18:01,953 [Worker-40] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B install
+2016-11-22 14:18:05,847 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-22 14:18:05,849 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-11-22 14:18:05,853 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-11-22 14:18:05,857 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-22 14:18:05,857 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\spring-boot-samples\spring-boot-actuator-log4j\src\test\resources
+2016-11-22 14:18:55,268 [Worker-40] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\workspace\spring-boot-samples\spring-boot-actuator-log4j
+2016-11-22 14:18:55,268 [Worker-40] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B install
+2016-11-22 14:19:13,747 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-22 14:19:13,748 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-11-22 14:19:13,751 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-11-22 14:19:13,753 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-22 14:19:13,754 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\spring-boot-samples\spring-boot-actuator-log4j\src\test\resources
